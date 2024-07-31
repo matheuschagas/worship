@@ -1,6 +1,5 @@
 # Eco(Echo) - Charity Gayle | D
-### [Youtube - F](https://www.youtube.com/watch?v=B33nt6eDBWM)
-
+### Original key: F - [Youtube](https://www.youtube.com/watch?v=B33nt6eDBWM) | [Spotify](https://open.spotify.com/track/1bheHuowB3SdnDvIbL6vuZ?si=765a89c97cdc4037)
 ## Intro
 D G D G
 
