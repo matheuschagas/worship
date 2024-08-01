@@ -3,4 +3,5 @@
 # Music Summary
 
 1. [Eco(Echo) - Charity Gayle | D](Eco(Echo)-CharityGayle-D.md)
-1. [Confio em Deus(Trust in God) - Elevation Worship | C](ConfioEmDeus(TrustInGod)-ElevationWorship-C.md)
+2. [Confio em Deus(Trust in God) - Elevation Worship | C](ConfioEmDeus(TrustInGod)-ElevationWorship-C.md)
+3. [Não há nada comparado(If We Don’t Have You) - Gateway Worship - D](NãoHáNadaComparado(IfWeDon’tHaveYou)-GatewayWorship-D.md)
