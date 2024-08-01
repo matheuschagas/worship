@@ -49,3 +49,11 @@ Bm A D G x2
 
 Bm A D F#m
 
+G A D
+
+## Tag x5
+G A D
+
+## Ending
+D
+
