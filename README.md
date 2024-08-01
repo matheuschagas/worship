@@ -4,8 +4,8 @@
 
 1. [Eco(Echo) - Charity Gayle | D](Eco(Echo)-CharityGayle-D.md)
 2. [Confio em Deus(Trust in God) - Elevation Worship | C](ConfioEmDeus(TrustInGod)-ElevationWorship-C.md)
-3. [Não há nada comparado(If We Don’t Have You) - Gateway Worship - D](NãoHáNadaComparado(IfWeDon’tHaveYou)-GatewayWorship-D.md)
-4. Medley 1 (Nada mais + Quero Jesus + Vida aos sepulcros) D
-5. [Toma O Teu Lugar - Paulo Cesar Baruk - F](TomaOTeuLugar-PauloCesarBaruk-F.md)
-6. Clamo Jesus D
+3. [Não há nada comparado(If We Don’t Have You) - Gateway Worship | D](NãoHáNadaComparado(IfWeDon’tHaveYou)-GatewayWorship-D.md)
+4. Medley 1 (Nada mais + Quero Jesus + Vida aos sepulcros) | D
+5. [Toma O Teu Lugar - Paulo Cesar Baruk | F](TomaOTeuLugar-PauloCesarBaruk-F.md)
+6. [Clamo Jesus(I Speak Jesus) - Charity Gayle | D](ClamoJesus(ISpeakJesus)-CharityGayle-D.md)
 7. Não mais escravos D
