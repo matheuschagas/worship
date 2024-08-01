@@ -8,4 +8,4 @@
 4. Medley 1 (Nada mais + Quero Jesus + Vida aos sepulcros) | D
 5. [Toma O Teu Lugar - Paulo Cesar Baruk | F](TomaOTeuLugar-PauloCesarBaruk-F.md)
 6. [Clamo Jesus(I Speak Jesus) - Charity Gayle | D](ClamoJesus(ISpeakJesus)-CharityGayle-D.md)
-7. Não mais escravos D
+7. [Não Mais Escravos(No Longer Slaves) - Bethel Music | D](NãoMaisEscravos(NoLongerSlaves)-BethelMusic-D.md)
