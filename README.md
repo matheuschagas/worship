@@ -3,3 +3,4 @@
 # Music Summary
 
 1. [Eco(Echo) - Charity Gayle | D](Eco(Echo)-CharityGayle-D.md)
+1. [Confio em Deus(Trust in God) - Elevation Worship | C](ConfioEmDeus(TrustInGod)-ElevationWorship-C.md)
